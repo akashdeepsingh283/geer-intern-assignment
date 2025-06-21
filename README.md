@@ -62,8 +62,3 @@ A responsive, minimal product listing app built with Next.js (App Router) and Ta
 - External images need to be whitelisted in next.config.js.
 - Hydration warnings in dev may occur from browser extensions.
 - Clean and minimal UI using Tailwind CSS.
-
-------------------------------------------------------
-📄 License
-
-MIT © 2025 Your Name
